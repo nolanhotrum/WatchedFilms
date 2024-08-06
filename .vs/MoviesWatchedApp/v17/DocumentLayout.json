@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MoviesWatched\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6667233-0C49-4C21-8193-617A2B468D63}|MoviesWatchedApp.csproj|D:\\Projects\\MoviesWatched\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6667233-0C49-4C21-8193-617A2B468D63}|MoviesWatchedApp.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6667233-0C49-4C21-8193-617A2B468D63}|MoviesWatchedApp.csproj|D:\\Projects\\MoviesWatched\\watchedlistform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6667233-0C49-4C21-8193-617A2B468D63}|MoviesWatchedApp.csproj|solutionrelative:watchedlistform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6667233-0C49-4C21-8193-617A2B468D63}|MoviesWatchedApp.csproj|d:\\projects\\movieswatched\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F6667233-0C49-4C21-8193-617A2B468D63}|MoviesWatchedApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6667233-0C49-4C21-8193-617A2B468D63}|MoviesWatchedApp.csproj|D:\\Projects\\MoviesWatched\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6667233-0C49-4C21-8193-617A2B468D63}|MoviesWatchedApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6667233-0C49-4C21-8193-617A2B468D63}|MoviesWatchedApp.csproj|D:\\Projects\\MoviesWatched\\db\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6667233-0C49-4C21-8193-617A2B468D63}|MoviesWatchedApp.csproj|solutionrelative:db\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6667233-0C49-4C21-8193-617A2B468D63}|MoviesWatchedApp.csproj|D:\\Projects\\MoviesWatched\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6667233-0C49-4C21-8193-617A2B468D63}|MoviesWatchedApp.csproj|solutionrelative:prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Projects\\MoviesWatched\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "D:\\Projects\\MoviesWatched\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:24:58.065Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\MoviesWatched\\DB\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DB\\DatabaseHelper.cs",
+              "ToolTip": "D:\\Projects\\MoviesWatched\\DB\\DatabaseHelper.cs",
+              "RelativeToolTip": "DB\\DatabaseHelper.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:26:20.375Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "D:\\Projects\\MoviesWatched\\Prompt.cs",
+              "RelativeDocumentMoniker": "Prompt.cs",
+              "ToolTip": "D:\\Projects\\MoviesWatched\\Prompt.cs",
+              "RelativeToolTip": "Prompt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:56:56.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WatchedListForm.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\MoviesWatched\\WatchedListForm.xaml.cs",
+              "RelativeDocumentMoniker": "WatchedListForm.xaml.cs",
+              "ToolTip": "D:\\Projects\\MoviesWatched\\WatchedListForm.xaml.cs",
+              "RelativeToolTip": "WatchedListForm.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:41:31.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\MoviesWatched\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Projects\\MoviesWatched\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-08T19:21:51.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\MoviesWatched\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\MoviesWatched\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAwwJ8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:21:51.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
